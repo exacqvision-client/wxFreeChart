@@ -1,0 +1,46 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "wxFreeChart", "wxFreeChart.vcxproj", "{A53CAAB8-0449-48F8-A751-80235104C669}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		DLL Debug|Win32 = DLL Debug|Win32
+		DLL Debug|x64 = DLL Debug|x64
+		DLL Release|Win32 = DLL Release|Win32
+		DLL Release|x64 = DLL Release|x64
+		Release static|Win32 = Release static|Win32
+		Release static|x64 = Release static|x64
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A53CAAB8-0449-48F8-A751-80235104C669}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A53CAAB8-0449-48F8-A751-80235104C669}.Debug|Win32.Build.0 = Debug|Win32
+		{A53CAAB8-0449-48F8-A751-80235104C669}.Debug|x64.ActiveCfg = Debug|x64
+		{A53CAAB8-0449-48F8-A751-80235104C669}.Debug|x64.Build.0 = Debug|x64
+		{A53CAAB8-0449-48F8-A751-80235104C669}.DLL Debug|Win32.ActiveCfg = DLL Debug|Win32
+		{A53CAAB8-0449-48F8-A751-80235104C669}.DLL Debug|Win32.Build.0 = DLL Debug|Win32
+		{A53CAAB8-0449-48F8-A751-80235104C669}.DLL Debug|x64.ActiveCfg = DLL Debug|x64
+		{A53CAAB8-0449-48F8-A751-80235104C669}.DLL Debug|x64.Build.0 = DLL Debug|x64
+		{A53CAAB8-0449-48F8-A751-80235104C669}.DLL Release|Win32.ActiveCfg = DLL Release|Win32
+		{A53CAAB8-0449-48F8-A751-80235104C669}.DLL Release|Win32.Build.0 = DLL Release|Win32
+		{A53CAAB8-0449-48F8-A751-80235104C669}.DLL Release|x64.ActiveCfg = DLL Release|x64
+		{A53CAAB8-0449-48F8-A751-80235104C669}.DLL Release|x64.Build.0 = DLL Release|x64
+		{A53CAAB8-0449-48F8-A751-80235104C669}.Release static|Win32.ActiveCfg = Release static|Win32
+		{A53CAAB8-0449-48F8-A751-80235104C669}.Release static|Win32.Build.0 = Release static|Win32
+		{A53CAAB8-0449-48F8-A751-80235104C669}.Release static|x64.ActiveCfg = Release static|x64
+		{A53CAAB8-0449-48F8-A751-80235104C669}.Release static|x64.Build.0 = Release static|x64
+		{A53CAAB8-0449-48F8-A751-80235104C669}.Release|Win32.ActiveCfg = Release|Win32
+		{A53CAAB8-0449-48F8-A751-80235104C669}.Release|Win32.Build.0 = Release|Win32
+		{A53CAAB8-0449-48F8-A751-80235104C669}.Release|x64.ActiveCfg = Release|x64
+		{A53CAAB8-0449-48F8-A751-80235104C669}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56589D90-E89A-43CD-B9B6-A86ABC266D28}
+	EndGlobalSection
+EndGlobal
